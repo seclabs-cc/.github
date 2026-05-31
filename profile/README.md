@@ -1,4 +1,6 @@
-<img src="/profile/images/seclab-logo-no-bg.png" alt="logo" height="120" />
+<p align="center">
+  <img src="/profile/images/seclab-logo-no-bg.png" alt="logo" height="120" />
+</p>
 
 
 ```diff
