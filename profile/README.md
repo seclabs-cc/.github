@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile/images/seclab-logo-no-bg.png" alt="logo" height="120" />
+  <img src="/profile/images/seclab-logo-no-bg.png" alt="logo" height="400" />
 </p>
 
 
