@@ -19,19 +19,31 @@ Check my website <a href="https://seclabs.cc">
 @@ ~/.skills @@
 ```
 
+### Cybersecurity & DevSecOps
+<p>
+  <img alt="Zero Trust" src="https://img.shields.io/badge/-Zero%20Trust-000000?style=flat&logo=auth0&logoColor=white" />
+  <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-3780A6?style=flat&logo=owasp&logoColor=white" />
+  <img alt="AWS Security" src="https://img.shields.io/badge/-AWS%20Security-FB542B?style=flat&logo=amazon&logoColor=white" />
+  <img alt="Governance, Risk, and Compliance" src="https://img.shields.io/badge/-GRC-7E1919?style=flat" />
+  <img alt="Threat Modeling" src="https://img.shields.io/badge/-Threat%20Modeling-5B1D76?style=flat" />
+  <img alt="Security Review" src="https://img.shields.io/badge/-Security%20Review-008080?style=flat" />
+  <img alt="Security Gates" src="https://img.shields.io/badge/-Security%20Gates-A10000?style=flat" />
+  <img alt="Purple Teaming" src="https://img.shields.io/badge/-Purple%20Teaming-8A2BE2?style=flat" />
+</p>
+
 ### DevOps & Cloud Technologies
 <p>
-    <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat&logo=amazon&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat&logo=amazon&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-009639?style=flat&logo=linux&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-557C94?style=flat&logo=jenkins&logoColor=white" />
+  <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img alt="ELK Stack" src="https://img.shields.io/badge/-ELK%20Stack-005571?style=flat&logo=elasticsearch&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
@@ -46,6 +58,10 @@ Check my website <a href="https://seclabs.cc">
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-0B57A4?style=flat&logo=Fedora&logoColor=white" />
   <img alt="OpenSuse" src="https://img.shields.io/badge/-OpenSuse-009639?style=flat&logo=suse&logoColor=green" />
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
+  <img alt="Apache NiFi" src="https://img.shields.io/badge/-Apache%20NiFi-FD5F00?style=flat&logo=apache&logoColor=white" />
+  <img alt="Zabbix" src="https://img.shields.io/badge/-Zabbix-D40000?style=flat&logo=zabbix&logoColor=red" /> 
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=orange" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=orange" />
 </p>
 
 ### Productivity & Communication Tools
