@@ -1,4 +1,4 @@
-![logo](/profile/images/logo.png)
+<img src="/profile/images/seclab-logo-no-bg.png" alt="logo" height="120" />
 
 
 ```diff
