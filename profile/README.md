@@ -4,17 +4,16 @@
   </a>
 </p>
 
-
 ```diff
 @@ ~/.seclabs-cc @@
 ```
-<img height="100px" src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/ghost-violet.svg"> <img height="100px" src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/hello.svg"> 
+
+<img height="100px" src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/ghost-violet.svg"> <img height="100px" src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/hello.svg">
 
 <br />
 
-
 Check my website <a href="https://seclabs.cc">
-    <img
+<img
       align="center"
       src="https://img.shields.io/badge/-Security%20Labs-blueviolet"
     /> </a> for all the security-related content I`m doing.
@@ -24,12 +23,13 @@ Check my website <a href="https://seclabs.cc">
 ```
 
 ### Cybersecurity & DevSecOps
+
 <p>
   <img alt="Zero Trust" src="https://img.shields.io/badge/-Zero%20Trust-000000?style=flat&logo=auth0&logoColor=white" />
   <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-3780A6?style=flat&logo=owasp&logoColor=white" />
   <img alt="AWS Security" src="https://img.shields.io/badge/-AWS%20Security-FB542B?style=flat&logo=amazon&logoColor=white" />
   <img alt="Secure SDLC" src="https://img.shields.io/badge/-Secure%20SDLC-0969DA?style=flat" />
-  <img alt="Governance, Risk, and Compliance" src="https://img.shields.io/badge/-Governance,%20Risk,%20and%20Compliance-7E1919?style=flat" />
+  <img alt="Governance, Risk and Compliance" src="https://img.shields.io/badge/-Governance,%20Risk%20and%20Compliance-7E1919?style=flat" />
   <img alt="Threat Modeling" src="https://img.shields.io/badge/-Threat%20Modeling-5B1D76?style=flat" />
   <img alt="Security Review" src="https://img.shields.io/badge/-Security%20Review-008080?style=flat" />
   <img alt="Security Gates" src="https://img.shields.io/badge/-Security%20Gates-A10000?style=flat" />
@@ -37,6 +37,7 @@ Check my website <a href="https://seclabs.cc">
 </p>
 
 ### DevOps & Cloud Technologies
+
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat&logo=amazon&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
@@ -53,6 +54,7 @@ Check my website <a href="https://seclabs.cc">
 </p>
 
 ### Infrastructure & Network Technologies
+
 <p>
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
@@ -70,6 +72,7 @@ Check my website <a href="https://seclabs.cc">
 </p>
 
 ### Productivity & Communication Tools
+
 <p>
   <img alt="VivaldiBrowser" src="https://img.shields.io/badge/-VivaldiBrowser-EE0000?style=flat&logo=vivaldi&logoColor=white" /> 
   <img alt="Atlassian" src="https://img.shields.io/badge/-Atlassian-262577?style=flat&logo=atlassian&logoColor=white" /> 
@@ -79,7 +82,6 @@ Check my website <a href="https://seclabs.cc">
 </p>
 
 <br />
-
 
 ```diff
 @@ ~/.contact @@
@@ -97,20 +99,20 @@ Check my website <a href="https://seclabs.cc">
 </a>
 <br />
 
-*************
+---
 
 #### Best regards :shipit:
+
 <p align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/Bottom.svg"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
 </p>
-
 
 <!--
 ### - Languages and Tools...
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges
 
 <img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
@@ -119,8 +121,6 @@ Check my website <a href="https://seclabs.cc">
 
 ***********************************
 -->
-
-
 
 <!--
 **renantmagalhaes/renantmagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
