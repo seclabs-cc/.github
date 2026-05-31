@@ -24,7 +24,7 @@ Check my website <a href="https://seclabs.cc">
   <img alt="Zero Trust" src="https://img.shields.io/badge/-Zero%20Trust-000000?style=flat&logo=auth0&logoColor=white" />
   <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-3780A6?style=flat&logo=owasp&logoColor=white" />
   <img alt="AWS Security" src="https://img.shields.io/badge/-AWS%20Security-FB542B?style=flat&logo=amazon&logoColor=white" />
-  <img alt="Governance, Risk, and Compliance" src="https://img.shields.io/badge/-GRC-7E1919?style=flat" />
+  <img alt="Governance, Risk, and Compliance" src="https://img.shields.io/badge/-Governance,%20Risk,%20and%20Compliance-7E1919?style=flat" />
   <img alt="Threat Modeling" src="https://img.shields.io/badge/-Threat%20Modeling-5B1D76?style=flat" />
   <img alt="Security Review" src="https://img.shields.io/badge/-Security%20Review-008080?style=flat" />
   <img alt="Security Gates" src="https://img.shields.io/badge/-Security%20Gates-A10000?style=flat" />
@@ -60,8 +60,8 @@ Check my website <a href="https://seclabs.cc">
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
   <img alt="Apache NiFi" src="https://img.shields.io/badge/-Apache%20NiFi-FD5F00?style=flat&logo=apache&logoColor=white" />
   <img alt="Zabbix" src="https://img.shields.io/badge/-Zabbix-D40000?style=flat&logo=zabbix&logoColor=red" /> 
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=orange" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=orange" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 </p>
 
 ### Productivity & Communication Tools
