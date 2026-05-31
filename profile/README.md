@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://seclabs.cc">
-    <img src="/profile/images/seclab-logo-no-bg.png" alt="logo" height="400" />
+    <img src="/profile/images/seclab-logo-no-bg.png" alt="logo" height="320" />
   </a>
 </p>
 
@@ -88,9 +88,6 @@ Check my website <a href="https://seclabs.cc">
 <br/>
 <a href="mailto:renan@seclabs.cc">
   <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" />
-</a>
-<a href="https://twitter.com/renanTM90">
-  <img align="left" alt="RenanTM| Twitter" width="22px" src="https://th.bing.com/th?id=OIP.pdt15zw4HZ18cb1YyIQ3LgHaHa&w=102&h=102&c=7&o=6&oif=webp&pid=SANGAM" />
 </a>
 <a href="https://www.linkedin.com/in/renantmagalhaes/">
   <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
