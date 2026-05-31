@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="/profile/images/seclab-logo-no-bg.png" alt="logo" height="400" />
+  <a href="https://seclabs.cc">
+    <img src="/profile/images/seclab-logo-no-bg.png" alt="logo" height="400" />
+  </a>
 </p>
 
 
