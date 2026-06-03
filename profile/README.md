@@ -5,7 +5,7 @@
 </p>
 
 ```diff
-@@ ~/.seclabs-cc @@
+@@ ~/.seclabs.cc @@
 ```
 
 <img height="100px" src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/ghost-violet.svg"> <img height="100px" src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/hello.svg">
